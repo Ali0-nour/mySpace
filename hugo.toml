@@ -1,0 +1,25 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+theme = 'hugo-theme-monochrome'
+tags = ["blog", "responsive", "dark", "light", "multilingual"]
+
+
+[params]
+navbar_title = "My Corner"
+footer = "Copyright © 2024 by ali"
+enable_site_search = true
+color_scheme = "dark" 
+
+
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+
+
+[[menu.navbar]]
+identifier = "about"
+name = "projects"
+title = "Projects"
+url = '/projects/'
+weight = 3
