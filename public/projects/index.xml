@@ -1,47 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Projects on </title>
-    <link>http://localhost:1313/projects/</link>
-    <description>Recent content in Projects on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 27 Dec 2024 19:29:11 +0100</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Example</title>
-      <link>http://localhost:1313/projects/example/</link>
-      <pubDate>Fri, 27 Dec 2024 19:29:11 +0100</pubDate>
-      
-      <guid>http://localhost:1313/projects/example/</guid>
-      <description>&lt;p&gt;Hi, welcome to Obsidian!&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;h2 id=&#34;im-interested-in-obsidian&#34; class=&#34;header-anchor-wrapper&#34;&gt;I’m interested in Obsidian
-  &lt;a href=&#34;#im-interested-in-obsidian&#34; class=&#34;header-anchor-link&#34;&gt;
-    &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on</title><link>https://example.org/projects/</link><description>Recent content in Projects on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 27 Dec 2024 19:29:11 +0100</lastBuildDate><atom:link href="https://example.org/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Example</title><link>https://example.org/projects/example/</link><pubDate>Fri, 27 Dec 2024 19:29:11 +0100</pubDate><guid>https://example.org/projects/example/</guid><description>&lt;p>Hi, welcome to Obsidian!&lt;/p>
+&lt;hr>
+&lt;h2 id="im-interested-in-obsidian" class="header-anchor-wrapper">I’m interested in Obsidian
+&lt;a href="#im-interested-in-obsidian" class="header-anchor-link">
+&lt;svg width="16px" height="16px" viewBox="0 0 24 24">
 &lt;svg
-    xmlns=&#34;http://www.w3.org/2000/svg&#34;
-    width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
-    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
-    stroke-linejoin=&#34;round&#34;&gt;
-    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
-&lt;/svg&gt;
-
-&lt;/svg&gt;
-  &lt;/a&gt;
-&lt;/h2&gt;
-
-&lt;p&gt;First of all, tell me a little bit about what&amp;rsquo;s your experience with note-taking apps like?&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;[[No prior experience|I have no prior experience]]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;[[From standard note-taking|I’ve used note-taking apps like Evernote and OneNote]]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;[[From plain-text note-taking|I have used plain-text based apps]]&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+xmlns="http://www.w3.org/2000/svg"
+width="24" height="24" viewBox="0 0 24 24" fill="none"
+stroke="currentColor" stroke-width="2" stroke-linecap="round"
+stroke-linejoin="round">
+&lt;line x1="4" y1="9" x2="20" y2="9">&lt;/line>&lt;line x1="4" y1="15" x2="20" y2="15">&lt;/line>&lt;line x1="10" y1="3" x2="8" y2="21">&lt;/line>&lt;line x1="16" y1="3" x2="14" y2="21">&lt;/line>
+&lt;/svg>
+&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;p>First of all, tell me a little bit about what&amp;rsquo;s your experience with note-taking apps like?&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>[[No prior experience|I have no prior experience]]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[[From standard note-taking|I’ve used note-taking apps like Evernote and OneNote]]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[[From plain-text note-taking|I have used plain-text based apps]]&lt;/p></description></item></channel></rss>
