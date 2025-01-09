@@ -48,3 +48,9 @@ hugo server
 ```
 http://localhost:1313
 ```
+
+
+> **Note:**  
+This is a basic version of my personal website blog. It's not complete yet and will be customized in the future.  
+Currently, I'm using it to apply what I'm learning about Hugo, netlify, and web development.  
+Consider it a work in progress!
