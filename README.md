@@ -24,7 +24,7 @@ You can visit my site https://mynook.netlify.app/projects/example/
 ```bash
 sudo apt update
 sudo apt install hugo
-
+```
 
 #### On **Arch Linux**: 
 ```bash
