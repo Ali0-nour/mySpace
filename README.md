@@ -26,7 +26,8 @@ sudo apt update
 sudo apt install hugo
 
 
-#### On **Arch Linux**:
+#### On **Arch Linux**: 
 ```bash
-sudo pacman -S hugo
+sudo apt update
+sudo apt install hugo
 
