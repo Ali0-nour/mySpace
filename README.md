@@ -1,10 +1,10 @@
 # My Personal Blog 🚀
 
-Welcome to my personal blog hosted on **GitHub Pages**!  
+Welcome to my personal blog hosted on **netlify**!  
 I write about various topics including programming, Linux, and technology.
 
 ## 🌐 Website
-You can visit my blog here: [https://yourusername.github.io](https://yourusername.github.io)
+You can visit my site https://mynook.netlify.app/projects/example/
 
 ## 📚 Topics I cover
 - Linux distributions and customization
