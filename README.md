@@ -58,7 +58,8 @@ http://localhost:1313
 - [ ] Improve the site's visibility in search engines (SEO) for better reach.
 - [ ] Add and improve at least 10 topics to expand the content.
 
+## ✍️ **Made by Ali and reviewed by GPT**  
+This project is created by Ali and reviewed by GPT for accuracy and clarity. It is a work in progress and will be further customized in the future as I continue learning and experimenting with new technologies.
+
 > **Note:**  
 This is a basic version of my personal website blog. It's not complete yet and will be customized in the future.  
-Currently, I'm using it to apply what I'm learning about Hugo, netlify, and web development.  
-Consider it a work in progress!
