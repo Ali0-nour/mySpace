@@ -23,7 +23,7 @@ You can visit my site https://mynook.netlify.app/projects/example/
 #### On **Debian/Ubuntu**:  
 ```bash
 sudo apt update
-sudo apt install hugo```
+sudo apt install hugo ```
 
 #### On **Arch Linux**: 
 ```bash
