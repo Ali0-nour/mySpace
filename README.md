@@ -28,21 +28,23 @@ sudo apt install hugo
 ### 🚀 2. Running the Project
 
 1. Clone the repository:
-
+```
 git clone https://github.com/yourusername/yourrepository.git
-
+```
 
 2. Navigate to the project folder:
 
+```
 cd yourrepository
-
+```
 
 3. Start the Hugo server:
-
+```
 hugo server
-
+```
 
 4. Open your browser and go to:
 
+```
 http://localhost:1313
-
+```
