@@ -48,7 +48,15 @@ hugo server
 ```
 http://localhost:1313
 ```
-
+## ✅ **To Do**
+- [ ] Customize the design and modify the current template.
+- [ ] Add new content and improve site navigation.
+- [ ] Improve performance and user experience.
+- [ ] Add a about section.
+- [ ] Regularly update the site to apply what I learn.
+- [ ] Add Arabic language support and improve its display on the site.
+- [ ] Improve the site's visibility in search engines (SEO) for better reach.
+- [ ] Add and improve at least 10 topics to expand the content.
 
 > **Note:**  
 This is a basic version of my personal website blog. It's not complete yet and will be customized in the future.  
