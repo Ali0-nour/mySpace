@@ -13,6 +13,19 @@ You can visit my site https://mynook.netlify.app/projects/example/
 - Open-source projects
 
 ## 🛠️ How to build the project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+
+### 📥 **1. Installing Hugo**
+
+#### On **Windows**:  
+1. Download Hugo from the official website: [https://gohugo.io](https://gohugo.io).  
+2. Add the Hugo executable to your `PATH` environment variable.  
+
+#### On **Debian/Ubuntu**:  
+```bash
+sudo apt update
+sudo apt install hugo
+
+#### On **Arch Linux**:
+
+sudo pacman -S hugo
+
