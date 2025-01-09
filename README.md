@@ -35,7 +35,7 @@ clone https://github.com/Ali0-nour/mySpace
 2. Navigate to the project folder:
 
 ```
-cd yourrepository
+cd MySpace
 ```
 
 3. Start the Hugo server:
