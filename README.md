@@ -23,8 +23,8 @@ You can visit my site https://mynook.netlify.app/projects/example/
 #### On **Debian/Ubuntu**:  
 ```bash
 sudo apt update
-sudo apt install hugo ```
-
+sudo apt install hugo 
+```
 ### 🚀 2. Running the Project
 
 1. Clone the repository:
