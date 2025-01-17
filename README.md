@@ -29,7 +29,7 @@ sudo apt install hugo
 
 1. Clone the repository:
 ```
-clone https://github.com/Ali0-nour/mySpace
+git clone https://github.com/Ali0-nour/mySpace
 ```
 
 2. Navigate to the project folder:
