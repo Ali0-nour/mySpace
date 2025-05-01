@@ -1,3 +1,5 @@
+**warning**  Please be advised that development for this website has ceased 
+---
 # My Personal Blog 🚀
 
 Welcome to my personal blog hosted on **netlify**!  
